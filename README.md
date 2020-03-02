@@ -9,6 +9,14 @@ Se tendra una revision tanto más **técnica** como detalles acerca de la progra
     - Pantalla LCD
 - Programa principal
     - Recepción, procesamiento, envío y visualizacion de datos
+    
+**Tomar en cuenta que todo el codigo aqui mostrado se encuentra en el repositorio.**
+
+**Las cabeceras Core/Inc/**
+
+**Las implementaciones Core/Src/**
+
+**IMPORTANTE: El diseño del PCB de este sistema de telemetría se encuentra aqui: https://easyeda.com/cancioalmaraz/recepcion**
 
 ## Configuración de Pines e Interfaces de Comunicación
 Para poder aclarar la distribucion de los pines, hay mencionar que para este disposito estamos usando una placa de STmicroelectronics, mas precisamente la placa stm32 nucleo F401RE y el microcontrolador que lleva dentro es el STM32F401RET6, para mas detalles chekear el link https://os.mbed.com/platforms/ST-Nucleo-F401RE/.
