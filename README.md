@@ -36,5 +36,4 @@ Este componente simplemente nos ayudará a visualizar los datos obtenidos por el
 Simplemtente el codigo de este dispositvo se encarga de recibir los datos, enviarlos a la PC a través de puerto serial y (opcionalmente) si se quiere, mostrar los datos por la pantalla LCD conectado a una interfaz I2C del dispositvo.
 
 ### Recepción, procesamiento, envío y visualizacion de datos
-![Captura de Pantalla 2020-03-02 a la(s) 15 53 49](https://user-images.githubusercontent.com/47458067/75712236-0499d500-5c9e-11ea-8554-9b5f44da8bdd.png)
-
+![Captura de Pantalla 2020-03-02 a la(s) 15 59 44](https://user-images.githubusercontent.com/47458067/75712759-d799f200-5c9e-11ea-8a65-ee6e601d14f6.png)
